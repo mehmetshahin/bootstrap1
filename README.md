@@ -6,4 +6,4 @@
 
 <p>HTML5 CSS3 BOOTSTRAP</p>
 
-![](bootstrap.gif.gif)# bootstrap1
+![](bootstrap.gif)
